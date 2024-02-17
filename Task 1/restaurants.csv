@@ -799,6 +799,26 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18259525,Real Momos,UAE,Dubai,885,3.7,"Chinese, Asian, Street Food"
 209654,Rasoi Ghar,UAE,Dubai,2600,4.6,"Indian, Gujarati, Rajasthani"
 200377,California Pizza Kitchen,UAE,Dubai,1198,4.3,"Pizza, American"
+18485435,The Curry Culture,Singapore,Singapore,80,4.9,"Continental, Indian, Asian"
+18483420,Burnt Ends,Singapore,Singapore,37,4.7,"American, European, Australian, Steak"
+18482848,Singapore Zam Zam Restaurant,Singapore,Singapore,75,4.7,"South Indian, Singaporean, Middle Eastern, Indian"
+18496115,Komala Vilas Restaurant,Singapore,Singapore,100,4.7,"Indian, North Indian, South Indian"
+18482886,Corner House,Singapore,Singapore,25,4.9,"Continental, French"
+18484349,Cut By Wolfgang Puck,Singapore,Singapore,52,4.9,"American, Steak"
+18483222,Jaan,Singapore,Singapore,30,4.7,French
+18484299,Melt Cafe,Singapore,Singapore,31,4.8,"Singaporean, European, Seafood, Indian, Japanese, Continental"
+18483051,Summer Pavilion,Singapore,Singapore,28,4.8,"Chinese, Seafood, Cantonese, Dim Sum"
+18483372,Sky On 57,Singapore,Singapore,32,4.8,"Chinese, Continental, Singaporean"
+18483595,Edge,Singapore,Singapore,19,4.5,"Chinese, Thai, Japanese, Italian"
+18485564,Wild Honey,Singapore,Singapore,72,4.9,"European, Spanish, American, Cafe"
+18485572,Carousel,Singapore,Singapore,25,4.6,"Mediterranean, Asian, Japanese, Sushi, Seafood, French"
+18483714,Fratini La Trattoria,Singapore,Singapore,21,4.8,Italian
+18483374,My Awesome Cafe,Singapore,Singapore,23,4.9,"Continental, European"
+18483658,Basilico,Singapore,Singapore,25,4.8,Italian
+18484464,Colony,Singapore,Singapore,45,4.9,"Asian, Continental, Seafood, Bakery"
+18483362,Adrift By David Myers,Singapore,Singapore,20,4.6,"American, Asian, Continental, Fusion"
+18493989,Makansutra Gluttons Bay,Singapore,Singapore,41,4.7,"Singaporean, Chinese, Seafood, Malay, Indian"
+18494038,Peach Blossoms,Singapore,Singapore,13,4.0,"Singaporean, Chinese, Dim Sum, Healthy Food, Seafood, Cantonese"
 5603572,Ushna,UAE,Sharjah,166,4.4,"Indian, North Indian"
 5601340,Aroos Damascus,UAE,Sharjah,1036,4.4,"Arabian, Middle Eastern"
 5600642,Katis Restaurant,UAE,Sharjah,644,4.1,"North Indian, Chinese, Hyderabadi"
@@ -839,26 +859,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18277098,Ming's Chamber,UAE,Abu Dhabi,657,4.8,Asian
 5702486,Ghee Rice,UAE,Abu Dhabi,693,3.9,"Indian, Kerala, Biryani"
 18340175,The Yellow Chilli by Sanjeev Kapoor,UAE,Abu Dhabi,670,4.3,"Indian, North Indian"
-18485435,The Curry Culture,Singapore,Singapore,80,4.9,"Continental, Indian, Asian"
-18483420,Burnt Ends,Singapore,Singapore,37,4.7,"American, European, Australian, Steak"
-18482848,Singapore Zam Zam Restaurant,Singapore,Singapore,75,4.7,"South Indian, Singaporean, Middle Eastern, Indian"
-18496115,Komala Vilas Restaurant,Singapore,Singapore,100,4.7,"Indian, North Indian, South Indian"
-18482886,Corner House,Singapore,Singapore,25,4.9,"Continental, French"
-18484349,Cut By Wolfgang Puck,Singapore,Singapore,52,4.9,"American, Steak"
-18483222,Jaan,Singapore,Singapore,30,4.7,French
-18484299,Melt Cafe,Singapore,Singapore,31,4.8,"Singaporean, European, Seafood, Indian, Japanese, Continental"
-18483051,Summer Pavilion,Singapore,Singapore,28,4.8,"Chinese, Seafood, Cantonese, Dim Sum"
-18483372,Sky On 57,Singapore,Singapore,32,4.8,"Chinese, Continental, Singaporean"
-18483595,Edge,Singapore,Singapore,19,4.5,"Chinese, Thai, Japanese, Italian"
-18485564,Wild Honey,Singapore,Singapore,72,4.9,"European, Spanish, American, Cafe"
-18485572,Carousel,Singapore,Singapore,25,4.6,"Mediterranean, Asian, Japanese, Sushi, Seafood, French"
-18483714,Fratini La Trattoria,Singapore,Singapore,21,4.8,Italian
-18483374,My Awesome Cafe,Singapore,Singapore,23,4.9,"Continental, European"
-18483658,Basilico,Singapore,Singapore,25,4.8,Italian
-18484464,Colony,Singapore,Singapore,45,4.9,"Asian, Continental, Seafood, Bakery"
-18483362,Adrift By David Myers,Singapore,Singapore,20,4.6,"American, Asian, Continental, Fusion"
-18493989,Makansutra Gluttons Bay,Singapore,Singapore,41,4.7,"Singaporean, Chinese, Seafood, Malay, Indian"
-18494038,Peach Blossoms,Singapore,Singapore,13,4.0,"Singaporean, Chinese, Dim Sum, Healthy Food, Seafood, Cantonese"
 5800678,Harbour Court - The Kingsbury,Sri Lanka,Colombo,174,4.4,"Italian, Seafood, Desserts"
 5801085,Tea Avenue,Sri Lanka,Colombo,335,4.5,Cafe
 5800240,The Gallery Cafe,Sri Lanka,Colombo,242,4.7,"Sri Lankan, Italian, Seafood, Desserts"
@@ -939,86 +939,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 6103922,Dishoom,United Kingdom,London,336,4.7,"Indian, Cafe, Curry"
 6100354,Busaba Eathai,United Kingdom,London,499,4.6,"Thai, Curry"
 6103902,Yauatcha,United Kingdom,London,805,4.8,"Chinese, Dim Sum"
-6801374,Solita,United Kingdom,Manchester,138,4.9,"American, Burger, Grill"
-6800878,The Alchemist,United Kingdom,Manchester,34,4.0,"European, Contemporary"
-17855562,Tattu Restaurant and Bar,United Kingdom,Manchester,19,3.5,Chinese
-6801293,Hard Rock Cafe,United Kingdom,Manchester,64,4.3,American
-6801900,Evuna Bar & Restaurant,United Kingdom,Manchester,6,3.4,"Spanish, Tapas"
-6800908,Mughli,United Kingdom,Manchester,84,4.6,"Indian, Curry"
-18253075,Yard & Coop,United Kingdom,Manchester,10,3.4,"American, British"
-6800678,Lahore,United Kingdom,Manchester,46,3.9,"Indian, Grill"
-6801329,Home Sweet Home,United Kingdom,Manchester,80,4.3,"British, Burger, Cafe"
-6801386,Cafe North,United Kingdom,Manchester,11,3.7,Cafe
-6800759,The Grill on New York Street,United Kingdom,Manchester,28,3.8,"British, Mexican, Seafood"
-6801039,San Carlo,United Kingdom,Manchester,187,4.4,Italian
-6800235,The Grill On The Alley,United Kingdom,Manchester,171,4.6,"Steak, Seafood, Grill"
-6800593,Zouk Tea Bar & Grill,United Kingdom,Manchester,69,3.8,"Indian, Seafood"
-6801827,Umezushi,United Kingdom,Manchester,26,4.1,Japanese
-6800782,The French by Simon Rogan - The Midland,United Kingdom,Manchester,69,4.5,French
-6801867,Manchester House,United Kingdom,Manchester,45,4.2,British
-6801984,Ibérica,United Kingdom,Manchester,17,3.9,"Spanish, Tapas"
-17855602,Turtle Bay,United Kingdom,Manchester,8,3.5,Caribbean
-6801884,Pieminister,United Kingdom,Manchester,14,3.7,Bakery
-6901318,Adam's Restaurant,United Kingdom,Birmingham,74,4.3,Continental
-6900674,Purnell's,United Kingdom,Birmingham,70,4.6,Contemporary
-6900050,Jamie's Italian,United Kingdom,Birmingham,35,4.0,Italian
-6900669,Fiesta del Asado,United Kingdom,Birmingham,26,4.1,"Latin American, Italian"
-6900078,Jimmy Spices,United Kingdom,Birmingham,53,4.1,"Indian, Middle Eastern, Chinese, American, European"
-6900224,Chaophraya,United Kingdom,Birmingham,19,4.0,Thai
-6900883,Ju Ju's Cafe,United Kingdom,Birmingham,12,3.8,"Cafe, British"
-6900374,Bank,United Kingdom,Birmingham,52,4.1,"British, Steak"
-6901062,The Warehouse Cafe,United Kingdom,Birmingham,10,3.9,"British, Cafe"
-6900724,Bodega,United Kingdom,Birmingham,34,4.8,Latin American
-6900388,Lasan Restaurant,United Kingdom,Birmingham,67,4.3,Indian
-18273002,Damascena Coffee House,United Kingdom,Birmingham,7,3.8,"Greek, Mediterranean, Middle Eastern"
-6901051,The Plough,United Kingdom,Birmingham,32,4.3,British
-6900227,Wagamama,United Kingdom,Birmingham,56,4.6,Japanese
-6900288,Fargo's Food Factory,United Kingdom,Birmingham,11,3.8,"Burger, Steak, Indian, Pizza, Desserts, Chinese"
-6900160,Handmade Burger Co.,United Kingdom,Birmingham,20,3.9,"Burger, American"
-6900843,Chennai Dosa,United Kingdom,Birmingham,40,3.8,"Indian, South Indian"
-6900692,Simpsons Restaurants,United Kingdom,Birmingham,58,4.5,British
-6900106,Pushkar,United Kingdom,Birmingham,37,4.4,Indian
-6900339,Asha's,United Kingdom,Birmingham,48,4.2,Indian
-7601024,Ting Thai Caravan,United Kingdom,Edinburgh,110,4.6,"Thai, Asian"
-7600188,Mother India's Cafe,United Kingdom,Edinburgh,137,4.5,Indian
-7601102,Chaophraya,United Kingdom,Edinburgh,57,4.4,Thai
-7600471,The Elephant House,United Kingdom,Edinburgh,90,4.1,Cafe
-18408677,Dishoom Edinburgh,United Kingdom,Edinburgh,64,4.5,"Cafe, Indian"
-7600929,David Bann,United Kingdom,Edinburgh,76,4.5,"Asian, Italian, Mediterranean, European"
-7602204,El Cartel,United Kingdom,Edinburgh,34,4.1,Mexican
-7600432,The Royal McGregor,United Kingdom,Edinburgh,17,3.5,Scottish
-7600217,La Favorita,United Kingdom,Edinburgh,110,4.6,Italian
-7600062,Hard Rock Cafe,United Kingdom,Edinburgh,89,4.3,American
-7600307,Angels With Bagpipes,United Kingdom,Edinburgh,44,4.0,Scottish
-7600448,Cafe Andaluz,United Kingdom,Edinburgh,95,4.4,"Spanish, Tapas"
-7600902,Mimi's Bakehouse,United Kingdom,Edinburgh,76,4.6,"Cafe, Bakery, Desserts"
-7600792,Wedgwood,United Kingdom,Edinburgh,65,4.2,"Scottish, British"
-7601241,The Kitchin,United Kingdom,Edinburgh,143,4.5,"British, French"
-7600083,Castle Terrace,United Kingdom,Edinburgh,57,4.4,"British, Scottish, French"
-7600381,Fishers In The City,United Kingdom,Edinburgh,73,4.3,"Seafood, British"
-7601177,Tuk Tuk Indian Street Food,United Kingdom,Edinburgh,75,4.1,"Indian, Street Food"
-7600914,The Witchery & The Secret Garden,United Kingdom,Edinburgh,112,4.2,"British, Scottish, Seafood"
-7600636,Number One - Balmoral Hotel,United Kingdom,Edinburgh,35,4.0,European
-7700615,Wagamama,United Kingdom,Glasgow,136,4.3,Japanese
-7700043,Nanakusa,United Kingdom,Glasgow,71,4.2,"Japanese, Grill"
-7700258,Chaophraya,United Kingdom,Glasgow,51,3.6,Thai
-7700025,The Butterfly & The Pig,United Kingdom,Glasgow,53,3.9,British
-7701552,Elia,United Kingdom,Glasgow,77,4.4,Greek
-7700329,The Dhabba,United Kingdom,Glasgow,80,3.8,Indian
-7700780,The Two Figs,United Kingdom,Glasgow,42,3.9,"British, Scottish"
-7700672,The Battlefield Restaurant,United Kingdom,Glasgow,104,4.4,"Italian, Scottish, Continental"
-7700796,Celino's,United Kingdom,Glasgow,79,4.9,"Italian, Deli"
-7700470,Rishi's,United Kingdom,Glasgow,41,3.8,Indian
-7701386,La Tasca,United Kingdom,Glasgow,64,4.1,Spanish
-7700440,The Italian Caffe,United Kingdom,Glasgow,46,4.0,Italian
-7700495,The Butchershop Bar & Grill,United Kingdom,Glasgow,67,4.1,"Grill, Steak, Scottish, British"
-7700694,Ubiquitous Chip,United Kingdom,Glasgow,113,4.1,"Scottish, British"
-7700834,Stravaigin,United Kingdom,Glasgow,104,4.3,Scottish
-7700300,Jamie's Italian,United Kingdom,Glasgow,168,2.9,Italian
-7701457,Mother India Cafe,United Kingdom,Glasgow,126,4.8,Indian
-7700065,Ichiban,United Kingdom,Glasgow,133,4.6,Japanese
-7700026,Dakhin,United Kingdom,Glasgow,43,3.9,"Indian, South Indian"
-7700850,Hillhead Bookclub,United Kingdom,Glasgow,71,3.6,"British, Scottish"
 18455788,Zaitoon Restaurant & Grills,Qatar,Doha,925,4.4,"Indian, Chinese, Arabian, Fast Food, Kebab, Middle Eastern"
 6202987,Max's Restaurant,Qatar,Doha,452,4.8,Filipino
 18397873,Hasan Kolcuoğlu,Qatar,Doha,1156,4.8,Turkish
@@ -1099,46 +1019,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 6500359,JB's Corner,South Africa,Sandton,557,4.1,"Italian, American, Sushi, Pizza"
 6501169,Walnut Grove,South Africa,Sandton,617,4.2,"Cafe, Continental"
 6501055,DW Eleven-13,South Africa,Sandton,635,4.9,European
-75970,afro-boer,South Africa,Pretoria,128,4.2,"Cafe, Bakery, Street Food, Patisserie, South African, Healthy Food, Desserts"
-75609,Capital Craft Beer Academy,South Africa,Pretoria,402,4.5,"Street Food, Burger, American, Finger Food, German"
-75027,Kream,South Africa,Pretoria,530,4.8,African
-18289339,Culture Club - Bar De Tapas,South Africa,Pretoria,260,4.7,"Cafe, Tapas, South African, Beverages, Healthy Food, Desserts, Spanish"
-75380,The Black Bamboo,South Africa,Pretoria,178,4.7,"Continental, Contemporary, Desserts"
-75858,Crawdaddy's,South Africa,Pretoria,225,4.4,"Continental, Seafood, Burger, South African, Finger Food, Grill"
-75376,Tribeca Standard,South Africa,Pretoria,231,3.9,"Cafe, Burger, Pizza"
-18408129,Industrial Coffee Works,South Africa,Pretoria,110,4.1,"Cafe, Street Food, Burger, Ethiopian, South African, Juices"
-75026,Baobab Cafe & Grill,South Africa,Pretoria,304,4.2,"Cafe, Grill"
-75485,Doppio Zero,South Africa,Pretoria,170,3.9,"Italian, Cafe, Bakery"
-18199742,El Pistolero,South Africa,Pretoria,182,4.4,Mexican
-18445965,Guy Fieri's Kitchen & Bar,South Africa,Pretoria,183,2.2,"American, Italian, Continental"
-75121,Moo Moo,South Africa,Pretoria,331,4.2,"Steak, Continental"
-75104,Parrot's,South Africa,Pretoria,183,3.7,"Contemporary, Sushi, Grill, Italian, Steak"
-18376958,Mustang Sally's Pub & Diner,South Africa,Pretoria,122,3.8,"Healthy Food, Burger, American, Desserts, Grill"
-18136493,Hogshead,South Africa,Pretoria,297,4.2,"Grill, Burger"
-18445936,Something's Cooking by J,South Africa,Pretoria,145,3.6,"South African, Portuguese, Burger, Pizza"
-18199767,Carbon Bistro,South Africa,Pretoria,167,4.5,"Seafood, Burger, Steak"
-18376953,tashas,South Africa,Pretoria,109,4.2,"Cafe, Healthy Food"
-75620,Whisk Wine Bar,South Africa,Pretoria,135,4.1,"European, Tapas"
-7800282,Circus Circus Cafe,South Africa,Durban,141,4.2,"Mediterranean, Continental"
-7800523,Roma Revolving Restaurant,South Africa,Durban,144,3.9,"Italian, Seafood, Steak"
-7800372,Vovo Telo,South Africa,Durban,162,4.1,"Cafe, Bakery, Desserts"
-18362280,The Chefs' Table,South Africa,Durban,106,4.7,International
-7800495,The Ocean Terrace - The Oyster Box Hotel,South Africa,Durban,194,4.6,"Indian, Durban, Continental"
-7800663,The Galley Beach Bar & Grill,South Africa,Durban,120,3.2,"Grill, Seafood"
-7800284,Beluga,South Africa,Durban,241,3.8,"Seafood, Asian"
-7800310,Daruma - Elangeni & Maharani,South Africa,Durban,100,4.3,"Japanese, Sushi"
-7800531,Freedom Cafe,South Africa,Durban,119,4.1,"Deli, South African"
-7800959,The Waffle House,South Africa,Durban,195,4.8,"Desserts, Finger Food"
-7800905,Bel Punto,South Africa,Durban,177,4.9,Seafood
-18216520,Fourteen on Chartwell,South Africa,Durban,166,4.5,Continental
-7800437,Market,South Africa,Durban,156,4.4,Cafe
-7800380,Little Havana,South Africa,Durban,130,4.2,Continental
-7800541,Jack Salmon,South Africa,Durban,91,4.3,Seafood
-7800551,Mali's Indian Restaurant,South Africa,Durban,122,4.6,Indian
-7800516,Ile Maurice,South Africa,Durban,113,4.3,French
-7800157,tashas,South Africa,Durban,174,4.3,Cafe
-7800462,9th Avenue Bistro,South Africa,Durban,93,4.5,French
-18473006,Casa Bella,South Africa,Durban,59,3.8,"Italian, Pizza"
 6600440,Nau,Brazil,Brasília,9,3.9,Seafood
 6601218,New Koto,Brazil,Brasília,9,4.1,Japanese
 6601862,Taypá,Brazil,Brasília,11,4.0,"Peruvian, Latin American"
@@ -1179,26 +1059,46 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 6701049,Bistrot de Paris,Brazil,São Paulo,8,4.0,French
 6715851,Fleming’s Prime Steakhouse & Wine Bar,Brazil,São Paulo,5,3.8,Steak
 6713209,Agello Cucina,Brazil,São Paulo,2,3.4,Italian
-7302200,Mamma Jamma,Brazil,Rio de Janeiro,12,4.5,Pizza
-7303710,Paris 6,Brazil,Rio de Janeiro,28,4.4,French
-7302898,Aprazível,Brazil,Rio de Janeiro,63,4.9,Brazilian
-7304801,Camarada Camarão,Brazil,Rio de Janeiro,5,4.1,"Brazilian, North Eastern, Seafood"
-7301965,Pérgula - Copacabana Palace,Brazil,Rio de Janeiro,3,4.2,International
-7304307,Confeitaria Colombo,Brazil,Rio de Janeiro,40,4.6,"Desserts, Cafe"
-7300515,Garota de Ipanema,Brazil,Rio de Janeiro,58,4.8,"Brazilian, Bar Food"
-7300679,Zuka,Brazil,Rio de Janeiro,21,4.5,"Italian, Contemporary"
-7302026,La Trattoria,Brazil,Rio de Janeiro,11,4.5,Italian
-7300381,Churrascaria Palace,Brazil,Rio de Janeiro,20,4.9,Steak
-7301497,Marius Degustare,Brazil,Rio de Janeiro,16,4.7,"Seafood, International, Grill"
-7301112,Giuseppe Grill Mar,Brazil,Rio de Janeiro,11,4.5,"Brazilian, Grill, Seafood"
-7300483,Zazá Bistrô Tropical,Brazil,Rio de Janeiro,26,4.7,Brazilian
-7300650,Quadrucci,Brazil,Rio de Janeiro,11,4.5,"Italian, Contemporary"
-7301102,Oro,Brazil,Rio de Janeiro,3,4.3,Brazilian
-7302987,Téreze - Hotel Santa Teresa,Brazil,Rio de Janeiro,7,4.3,International
-7303219,Pesqueiro Eco Gourmet,Brazil,Rio de Janeiro,5,4.2,"Seafood, Bar Food, Brazilian"
-7301082,Olympe,Brazil,Rio de Janeiro,3,4.2,French
-7302549,Café do Alto,Brazil,Rio de Janeiro,5,4.3,"Brazilian, Cafe"
-7304351,CT Boucherie,Brazil,Rio de Janeiro,14,4.5,"French, Steak"
+6801374,Solita,United Kingdom,Manchester,138,4.9,"American, Burger, Grill"
+6800878,The Alchemist,United Kingdom,Manchester,34,4.0,"European, Contemporary"
+17855562,Tattu Restaurant and Bar,United Kingdom,Manchester,19,3.5,Chinese
+6801293,Hard Rock Cafe,United Kingdom,Manchester,64,4.3,American
+6801900,Evuna Bar & Restaurant,United Kingdom,Manchester,6,3.4,"Spanish, Tapas"
+6800908,Mughli,United Kingdom,Manchester,84,4.6,"Indian, Curry"
+18253075,Yard & Coop,United Kingdom,Manchester,10,3.4,"American, British"
+6800678,Lahore,United Kingdom,Manchester,46,3.9,"Indian, Grill"
+6801329,Home Sweet Home,United Kingdom,Manchester,80,4.3,"British, Burger, Cafe"
+6801386,Cafe North,United Kingdom,Manchester,11,3.7,Cafe
+6800759,The Grill on New York Street,United Kingdom,Manchester,28,3.8,"British, Mexican, Seafood"
+6801039,San Carlo,United Kingdom,Manchester,187,4.4,Italian
+6800235,The Grill On The Alley,United Kingdom,Manchester,171,4.6,"Steak, Seafood, Grill"
+6800593,Zouk Tea Bar & Grill,United Kingdom,Manchester,69,3.8,"Indian, Seafood"
+6801827,Umezushi,United Kingdom,Manchester,26,4.1,Japanese
+6800782,The French by Simon Rogan - The Midland,United Kingdom,Manchester,69,4.5,French
+6801867,Manchester House,United Kingdom,Manchester,45,4.2,British
+6801984,Ibérica,United Kingdom,Manchester,17,3.9,"Spanish, Tapas"
+17855602,Turtle Bay,United Kingdom,Manchester,8,3.5,Caribbean
+6801884,Pieminister,United Kingdom,Manchester,14,3.7,Bakery
+6901318,Adam's Restaurant,United Kingdom,Birmingham,74,4.3,Continental
+6900674,Purnell's,United Kingdom,Birmingham,70,4.6,Contemporary
+6900050,Jamie's Italian,United Kingdom,Birmingham,35,4.0,Italian
+6900669,Fiesta del Asado,United Kingdom,Birmingham,26,4.1,"Latin American, Italian"
+6900078,Jimmy Spices,United Kingdom,Birmingham,53,4.1,"Indian, Middle Eastern, Chinese, American, European"
+6900224,Chaophraya,United Kingdom,Birmingham,19,4.0,Thai
+6900883,Ju Ju's Cafe,United Kingdom,Birmingham,12,3.8,"Cafe, British"
+6900374,Bank,United Kingdom,Birmingham,52,4.1,"British, Steak"
+6901062,The Warehouse Cafe,United Kingdom,Birmingham,10,3.9,"British, Cafe"
+6900724,Bodega,United Kingdom,Birmingham,34,4.8,Latin American
+6900388,Lasan Restaurant,United Kingdom,Birmingham,67,4.3,Indian
+18273002,Damascena Coffee House,United Kingdom,Birmingham,7,3.8,"Greek, Mediterranean, Middle Eastern"
+6901051,The Plough,United Kingdom,Birmingham,32,4.3,British
+6900227,Wagamama,United Kingdom,Birmingham,56,4.6,Japanese
+6900288,Fargo's Food Factory,United Kingdom,Birmingham,11,3.8,"Burger, Steak, Indian, Pizza, Desserts, Chinese"
+6900160,Handmade Burger Co.,United Kingdom,Birmingham,20,3.9,"Burger, American"
+6900843,Chennai Dosa,United Kingdom,Birmingham,40,3.8,"Indian, South Indian"
+6900692,Simpsons Restaurants,United Kingdom,Birmingham,58,4.5,British
+6900106,Pushkar,United Kingdom,Birmingham,37,4.4,Indian
+6900339,Asha's,United Kingdom,Birmingham,48,4.2,Indian
 18749437,Belly Worship,New Zealand,Auckland,444,4.3,"Asian, Chinese, Asian Fusion, Street Food"
 7009344,Major Sprout,New Zealand,Auckland,561,4.5,Cafe Food
 7006421,PappaRich,New Zealand,Auckland,801,4.2,Malaysian
@@ -1239,26 +1139,46 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 7101483,Burger Liquor,New Zealand,Wellington City,185,4.4,American
 7100178,Monsoon Poon,New Zealand,Wellington City,205,4.3,Asian
 7100865,Shed 5,New Zealand,Wellington City,139,4.5,"European, Pacific"
-7900198,Sichuan Style Restaurant,New Zealand,Hamilton,72,4.3,Chinese
-7900069,Babaganush,New Zealand,Hamilton,76,4.0,Turkish
-7900141,Daikoku Restaurant,New Zealand,Hamilton,50,3.6,"Japanese, Teppanyaki"
-7900355,The Sugar Bowl Cafe,New Zealand,Hamilton,80,4.1,Cafe Food
-7900646,The Chilli House,New Zealand,Hamilton,28,4.0,"Chinese, Dumplings, Hot Pot, Sichuan, Vegan, Vegetarian"
-7900250,Gothenburg,New Zealand,Hamilton,100,4.6,European
-7900322,The Helm,New Zealand,Hamilton,64,2.5,European
-7900419,Two Birds Eatery,New Zealand,Hamilton,65,3.8,Cafe Food
-7900218,Foundation Bar Kitchen & Lounge,New Zealand,Hamilton,95,4.3,Steak
-18319871,Zealong Tea Estate,New Zealand,Hamilton,24,4.4,Cafe Food
-7903141,Jacks Coffee Lounge,New Zealand,Hamilton,53,4.1,Cafe Food
-7900287,The River Kitchen,New Zealand,Hamilton,62,4.2,"Cafe Food, Coffee and Tea"
-7900349,Good George Brewing,New Zealand,Hamilton,51,4.1,"Kiwi, European, Finger Food"
-7900238,Scotts Epicurean,New Zealand,Hamilton,117,4.4,Cafe Food
-7900011,Sultan's Kitchen,New Zealand,Hamilton,33,4.0,"Turkish, Mediterranean, Moroccan"
-7900186,Mexico,New Zealand,Hamilton,100,4.2,Mexican
-7900182,Thai House Express,New Zealand,Hamilton,51,4.0,Thai
-7900023,Indian Star,New Zealand,Hamilton,63,3.8,"North Indian, Indian"
-7900490,Zealong Tea Estate,New Zealand,Hamilton,55,4.7,"European, Asian, Desserts"
-7900115,The Flying Burrito Brothers,New Zealand,Hamilton,58,3.9,Mexican
+7210754,The Golconda Bowl,,Dummy,0,0,"North Indian, Mughlai"
+7204069,California Cantina,,Dummy,0,0,"Burger, Fast Food, Mexican, American, Pizza"
+7200516,Bardelli's,,Dummy,0,0,South Indian
+18133267,Baton Rouge,,Dummy,0,0,Steak
+7204711,Dunkin Donuts,,Dummy,0,0,"Fast Food, Desserts"
+7204029,L'Opera,,Dummy,0,0,Bakery
+5,Yoko Sizzlers,,Dummy,0,0,Japanese
+7200182,Kauai,,Dummy,0,0,Healthy Food
+7204328,Mcdonalds,,Dummy,0,0,"Italian, North Indian"
+3,Cafe Mangii,,Dummy,0,0,"Italian, European, Bakery"
+2,PHD,,Dummy,0,0,"Fast Food, Biryani"
+10,Hotel Sai Palace Garden,,Dummy,0,0,"North Indian, Chinese, South Indian"
+7204068,La Pescadería de Walker,,Dummy,0,0,Seafood
+7204327,Lane Cuisine Turc - Zorlu Alışveriş Merkezi,,Dummy,0,0,Turkish
+7204032,4700 BC Popcorn,,Dummy,0,0,Desserts
+7206255,Indian Zaik,,Dummy,0,0,"Fast Food, Indian"
+7209209,Arabic Nights,,Dummy,0,0,"Turkish, Mediterranean"
+15557859,Domino's Pizza,,Dummy,0,0,"Pizza, Fast Food"
+15561694,Geometrico,,Dummy,0,0,Others
+15561685,El Patio,,Dummy,0,0,Healthy Food
+7302200,Mamma Jamma,Brazil,Rio de Janeiro,12,4.5,Pizza
+7303710,Paris 6,Brazil,Rio de Janeiro,28,4.4,French
+7302898,Aprazível,Brazil,Rio de Janeiro,63,4.9,Brazilian
+7304801,Camarada Camarão,Brazil,Rio de Janeiro,5,4.1,"Brazilian, North Eastern, Seafood"
+7301965,Pérgula - Copacabana Palace,Brazil,Rio de Janeiro,3,4.2,International
+7304307,Confeitaria Colombo,Brazil,Rio de Janeiro,40,4.6,"Desserts, Cafe"
+7300515,Garota de Ipanema,Brazil,Rio de Janeiro,58,4.8,"Brazilian, Bar Food"
+7300679,Zuka,Brazil,Rio de Janeiro,21,4.5,"Italian, Contemporary"
+7302026,La Trattoria,Brazil,Rio de Janeiro,11,4.5,Italian
+7300381,Churrascaria Palace,Brazil,Rio de Janeiro,20,4.9,Steak
+7301497,Marius Degustare,Brazil,Rio de Janeiro,16,4.7,"Seafood, International, Grill"
+7301112,Giuseppe Grill Mar,Brazil,Rio de Janeiro,11,4.5,"Brazilian, Grill, Seafood"
+7300483,Zazá Bistrô Tropical,Brazil,Rio de Janeiro,26,4.7,Brazilian
+7300650,Quadrucci,Brazil,Rio de Janeiro,11,4.5,"Italian, Contemporary"
+7301102,Oro,Brazil,Rio de Janeiro,3,4.3,Brazilian
+7302987,Téreze - Hotel Santa Teresa,Brazil,Rio de Janeiro,7,4.3,International
+7303219,Pesqueiro Eco Gourmet,Brazil,Rio de Janeiro,5,4.2,"Seafood, Bar Food, Brazilian"
+7301082,Olympe,Brazil,Rio de Janeiro,3,4.2,French
+7302549,Café do Alto,Brazil,Rio de Janeiro,5,4.3,"Brazilian, Cafe"
+7304351,CT Boucherie,Brazil,Rio de Janeiro,14,4.5,"French, Steak"
 18615392,WAKI Japanese BBQ Dining,Indonesia,Jakarta,1242,4.9,"Japanese, Grill, BBQ, Korean, Asian"
 18657719,Gyu - Kaku Japanese BBQ,Indonesia,Jakarta,1013,4.8,"Japanese, BBQ"
 18744154,Sushi Hiro,Indonesia,Jakarta,1492,4.9,"Sushi, Japanese"
@@ -1279,3 +1199,103 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18266425,Gyu - Kaku Japanese BBQ,Indonesia,Jakarta,1351,4.9,"Japanese, BBQ"
 18880385,Gyu - Kaku Japanese BBQ,Indonesia,Jakarta,682,4.9,"Japanese, BBQ"
 7421967,3 Wise Monkeys,Indonesia,Jakarta,1652,4.5,"Japanese, Sushi"
+75970,afro-boer,South Africa,Pretoria,128,4.2,"Cafe, Bakery, Street Food, Patisserie, South African, Healthy Food, Desserts"
+75609,Capital Craft Beer Academy,South Africa,Pretoria,402,4.5,"Street Food, Burger, American, Finger Food, German"
+75027,Kream,South Africa,Pretoria,530,4.8,African
+18289339,Culture Club - Bar De Tapas,South Africa,Pretoria,260,4.7,"Cafe, Tapas, South African, Beverages, Healthy Food, Desserts, Spanish"
+75380,The Black Bamboo,South Africa,Pretoria,178,4.7,"Continental, Contemporary, Desserts"
+75858,Crawdaddy's,South Africa,Pretoria,225,4.4,"Continental, Seafood, Burger, South African, Finger Food, Grill"
+75376,Tribeca Standard,South Africa,Pretoria,231,3.9,"Cafe, Burger, Pizza"
+18408129,Industrial Coffee Works,South Africa,Pretoria,110,4.1,"Cafe, Street Food, Burger, Ethiopian, South African, Juices"
+75026,Baobab Cafe & Grill,South Africa,Pretoria,304,4.2,"Cafe, Grill"
+75485,Doppio Zero,South Africa,Pretoria,170,3.9,"Italian, Cafe, Bakery"
+18199742,El Pistolero,South Africa,Pretoria,182,4.4,Mexican
+18445965,Guy Fieri's Kitchen & Bar,South Africa,Pretoria,183,2.2,"American, Italian, Continental"
+75121,Moo Moo,South Africa,Pretoria,331,4.2,"Steak, Continental"
+75104,Parrot's,South Africa,Pretoria,183,3.7,"Contemporary, Sushi, Grill, Italian, Steak"
+18376958,Mustang Sally's Pub & Diner,South Africa,Pretoria,122,3.8,"Healthy Food, Burger, American, Desserts, Grill"
+18136493,Hogshead,South Africa,Pretoria,297,4.2,"Grill, Burger"
+18445936,Something's Cooking by J,South Africa,Pretoria,145,3.6,"South African, Portuguese, Burger, Pizza"
+18199767,Carbon Bistro,South Africa,Pretoria,167,4.5,"Seafood, Burger, Steak"
+18376953,tashas,South Africa,Pretoria,109,4.2,"Cafe, Healthy Food"
+75620,Whisk Wine Bar,South Africa,Pretoria,135,4.1,"European, Tapas"
+7601024,Ting Thai Caravan,United Kingdom,Edinburgh,110,4.6,"Thai, Asian"
+7600188,Mother India's Cafe,United Kingdom,Edinburgh,137,4.5,Indian
+7601102,Chaophraya,United Kingdom,Edinburgh,57,4.4,Thai
+7600471,The Elephant House,United Kingdom,Edinburgh,90,4.1,Cafe
+18408677,Dishoom Edinburgh,United Kingdom,Edinburgh,64,4.5,"Cafe, Indian"
+7600929,David Bann,United Kingdom,Edinburgh,76,4.5,"Asian, Italian, Mediterranean, European"
+7602204,El Cartel,United Kingdom,Edinburgh,34,4.1,Mexican
+7600432,The Royal McGregor,United Kingdom,Edinburgh,17,3.5,Scottish
+7600217,La Favorita,United Kingdom,Edinburgh,110,4.6,Italian
+7600062,Hard Rock Cafe,United Kingdom,Edinburgh,89,4.3,American
+7600307,Angels With Bagpipes,United Kingdom,Edinburgh,44,4.0,Scottish
+7600448,Cafe Andaluz,United Kingdom,Edinburgh,95,4.4,"Spanish, Tapas"
+7600902,Mimi's Bakehouse,United Kingdom,Edinburgh,76,4.6,"Cafe, Bakery, Desserts"
+7600792,Wedgwood,United Kingdom,Edinburgh,65,4.2,"Scottish, British"
+7601241,The Kitchin,United Kingdom,Edinburgh,143,4.5,"British, French"
+7600083,Castle Terrace,United Kingdom,Edinburgh,57,4.4,"British, Scottish, French"
+7600381,Fishers In The City,United Kingdom,Edinburgh,73,4.3,"Seafood, British"
+7601177,Tuk Tuk Indian Street Food,United Kingdom,Edinburgh,75,4.1,"Indian, Street Food"
+7600914,The Witchery & The Secret Garden,United Kingdom,Edinburgh,112,4.2,"British, Scottish, Seafood"
+7600636,Number One - Balmoral Hotel,United Kingdom,Edinburgh,35,4.0,European
+7700615,Wagamama,United Kingdom,Glasgow,136,4.3,Japanese
+7700043,Nanakusa,United Kingdom,Glasgow,71,4.2,"Japanese, Grill"
+7700258,Chaophraya,United Kingdom,Glasgow,51,3.6,Thai
+7700025,The Butterfly & The Pig,United Kingdom,Glasgow,53,3.9,British
+7701552,Elia,United Kingdom,Glasgow,77,4.4,Greek
+7700329,The Dhabba,United Kingdom,Glasgow,80,3.8,Indian
+7700780,The Two Figs,United Kingdom,Glasgow,42,3.9,"British, Scottish"
+7700672,The Battlefield Restaurant,United Kingdom,Glasgow,104,4.4,"Italian, Scottish, Continental"
+7700796,Celino's,United Kingdom,Glasgow,79,4.9,"Italian, Deli"
+7700470,Rishi's,United Kingdom,Glasgow,41,3.8,Indian
+7701386,La Tasca,United Kingdom,Glasgow,64,4.1,Spanish
+7700440,The Italian Caffe,United Kingdom,Glasgow,46,4.0,Italian
+7700495,The Butchershop Bar & Grill,United Kingdom,Glasgow,67,4.1,"Grill, Steak, Scottish, British"
+7700694,Ubiquitous Chip,United Kingdom,Glasgow,113,4.1,"Scottish, British"
+7700834,Stravaigin,United Kingdom,Glasgow,104,4.3,Scottish
+7700300,Jamie's Italian,United Kingdom,Glasgow,168,2.9,Italian
+7701457,Mother India Cafe,United Kingdom,Glasgow,126,4.8,Indian
+7700065,Ichiban,United Kingdom,Glasgow,133,4.6,Japanese
+7700026,Dakhin,United Kingdom,Glasgow,43,3.9,"Indian, South Indian"
+7700850,Hillhead Bookclub,United Kingdom,Glasgow,71,3.6,"British, Scottish"
+7800282,Circus Circus Cafe,South Africa,Durban,141,4.2,"Mediterranean, Continental"
+7800523,Roma Revolving Restaurant,South Africa,Durban,144,3.9,"Italian, Seafood, Steak"
+7800372,Vovo Telo,South Africa,Durban,162,4.1,"Cafe, Bakery, Desserts"
+18362280,The Chefs' Table,South Africa,Durban,106,4.7,International
+7800495,The Ocean Terrace - The Oyster Box Hotel,South Africa,Durban,194,4.6,"Indian, Durban, Continental"
+7800663,The Galley Beach Bar & Grill,South Africa,Durban,120,3.2,"Grill, Seafood"
+7800284,Beluga,South Africa,Durban,241,3.8,"Seafood, Asian"
+7800310,Daruma - Elangeni & Maharani,South Africa,Durban,100,4.3,"Japanese, Sushi"
+7800531,Freedom Cafe,South Africa,Durban,119,4.1,"Deli, South African"
+7800959,The Waffle House,South Africa,Durban,195,4.8,"Desserts, Finger Food"
+7800905,Bel Punto,South Africa,Durban,177,4.9,Seafood
+18216520,Fourteen on Chartwell,South Africa,Durban,166,4.5,Continental
+7800437,Market,South Africa,Durban,156,4.4,Cafe
+7800380,Little Havana,South Africa,Durban,130,4.2,Continental
+7800541,Jack Salmon,South Africa,Durban,91,4.3,Seafood
+7800551,Mali's Indian Restaurant,South Africa,Durban,122,4.6,Indian
+7800516,Ile Maurice,South Africa,Durban,113,4.3,French
+7800157,tashas,South Africa,Durban,174,4.3,Cafe
+7800462,9th Avenue Bistro,South Africa,Durban,93,4.5,French
+18473006,Casa Bella,South Africa,Durban,59,3.8,"Italian, Pizza"
+7900198,Sichuan Style Restaurant,New Zealand,Hamilton,72,4.3,Chinese
+7900069,Babaganush,New Zealand,Hamilton,76,4.0,Turkish
+7900141,Daikoku Restaurant,New Zealand,Hamilton,50,3.6,"Japanese, Teppanyaki"
+7900355,The Sugar Bowl Cafe,New Zealand,Hamilton,80,4.1,Cafe Food
+7900646,The Chilli House,New Zealand,Hamilton,28,4.0,"Chinese, Dumplings, Hot Pot, Sichuan, Vegan, Vegetarian"
+7900250,Gothenburg,New Zealand,Hamilton,100,4.6,European
+7900322,The Helm,New Zealand,Hamilton,64,2.5,European
+7900419,Two Birds Eatery,New Zealand,Hamilton,65,3.8,Cafe Food
+7900218,Foundation Bar Kitchen & Lounge,New Zealand,Hamilton,95,4.3,Steak
+18319871,Zealong Tea Estate,New Zealand,Hamilton,24,4.4,Cafe Food
+7903141,Jacks Coffee Lounge,New Zealand,Hamilton,53,4.1,Cafe Food
+7900287,The River Kitchen,New Zealand,Hamilton,62,4.2,"Cafe Food, Coffee and Tea"
+7900349,Good George Brewing,New Zealand,Hamilton,51,4.1,"Kiwi, European, Finger Food"
+7900238,Scotts Epicurean,New Zealand,Hamilton,117,4.4,Cafe Food
+7900011,Sultan's Kitchen,New Zealand,Hamilton,33,4.0,"Turkish, Mediterranean, Moroccan"
+7900186,Mexico,New Zealand,Hamilton,100,4.2,Mexican
+7900182,Thai House Express,New Zealand,Hamilton,51,4.0,Thai
+7900023,Indian Star,New Zealand,Hamilton,63,3.8,"North Indian, Indian"
+7900490,Zealong Tea Estate,New Zealand,Hamilton,55,4.7,"European, Asian, Desserts"
+7900115,The Flying Burrito Brothers,New Zealand,Hamilton,58,3.9,Mexican
